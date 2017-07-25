@@ -1,5 +1,5 @@
 // Lecture: Variables
-
+/*
 var name = 'Scott';
 console.log(name);
 
@@ -67,7 +67,7 @@ if(isMarried) {
     console.log('No!');
 }
 
-
+*/
 
 //Lecture Boolean logic
 

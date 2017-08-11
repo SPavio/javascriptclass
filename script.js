@@ -69,9 +69,24 @@ if(isMarried) {
 
 */
 
-//Lecture Boolean logic
+//Lecture Boolean logic and switch
 
 
+var age = 16;
+
+if (age <= 19) {
+    console.log('John is a teenager');
+} else {
+    console.log('John is a man')
+}
+
+var age = 41;
+
+if (age <= 19) {
+    console.log('Scot is a teenager');
+} else {
+    console.log('Scott is a man')
+}
 
 
 
